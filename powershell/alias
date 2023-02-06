@@ -1,1 +1,2 @@
 Set-Alias -Name vi -Value nvim
+New-Alias -Name vi -Value nvim
